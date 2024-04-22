@@ -80,6 +80,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 2. **Install Dependencies**
 
    ```bash
+   nvm install 20
    npm i
    ```
 
